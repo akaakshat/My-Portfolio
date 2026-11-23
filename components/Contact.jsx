@@ -30,9 +30,9 @@ export default function Contact() {
       <div className="contact-layout">
         <motion.div className="contact-details" initial={{ opacity: 0, y: 18 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, amount: 0.2 }} transition={{ duration: 0.55 }}>
           <span className="contact-label">START A CONVERSATION</span>
-          <div className="contact-method"><span className="contact-method-icon"><Mail size={17} /></span><span><small>EMAIL</small><strong>Address not provided</strong></span></div>
-          <a className="contact-method" href={linkedin} target="_blank" rel="noreferrer"><span className="contact-method-icon"><Linkedin size={17} /></span><span><small>LINKEDIN</small><strong>Connect with Akshat</strong></span><ArrowUpRight size={15} /></a>
-          <div className="contact-method contact-method-muted"><span className="contact-method-icon"><Github size={17} /></span><span><small>GITHUB</small><strong>Profile URL not provided</strong></span></div>
+          <div className="contact-method"><span className="contact-method-icon"><Mail size={17} /></span><span><small>EMAIL</small><strong>akshatb710@gmail.com</strong></span></div>
+          <a className="contact-method" href={linkedin} target="_blank" rel="noreferrer"><span className="contact-method-icon"><Linkedin size={17} /></span><span><small>linkedin.com/in/akshat-bhatnagar-1b1025206</small><strong>Connect with Akshat</strong></span><ArrowUpRight size={15} /></a>
+          <div className="contact-method contact-method-muted"><span className="contact-method-icon"><Github size={17} /></span><span><small>GITHUB</small><strong>https://github.com/akaakshat</strong></span></div>
           <a className="button button-quiet resume-link" href="/Akshat-Bhatnagar-Resume.txt" download>Download resume <ArrowUpRight size={15} /></a>
         </motion.div>
         <motion.form className="contact-form" onSubmit={handleSubmit} initial={{ opacity: 0, y: 18 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, amount: 0.2 }} transition={{ duration: 0.55, delay: 0.1 }}>
