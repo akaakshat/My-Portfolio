@@ -1,0 +1,32 @@
+AKSHAT BHATNAGAR
+Full Stack Developer | Creative Developer | Problem Solver
+
+PROFILE
+Developer focused on meaningful digital experiences, scalable web applications, business solutions, and interactive user interfaces. Experience across frontend engineering, backend development, and database management.
+
+EXPERIENCE
+Web Developer | Ecostan Infra Pvt. Ltd.
+- Developed and maintained company and associated-business websites using React.js, JavaScript, and modern web technologies.
+- Built backend functionality with Node.js and MongoDB.
+- Built and maintained a CRM system using React.js, Next.js, Node.js, and MongoDB.
+- Developed vehicle management functionality and maintained operational records for more than 90 company vehicles.
+- Managed database operations, application improvements, bug fixes, and ongoing website maintenance.
+- Used Claude and GitHub Copilot to support development workflows.
+
+SELECTED PROJECTS
+- Ecostan Corporate Websites: corporate websites for the parent company and associated businesses.
+- Fleet & Vehicle Management CRM: fleet operations and records for more than 90 vehicles.
+- Trendify E-commerce: MERN-stack e-commerce application with an AI chatbot.
+- Job Portal & ATS Checker: authentication, job listings, resume builder, ATS checker, and dashboards.
+- Axel Furniture Website: responsive furniture site with interactive product presentation.
+- React AirPods Animation: interactive animated product presentation.
+
+EDUCATION
+Master of Computer Applications (MCA) | Galgotias University
+
+TECHNOLOGIES
+HTML5, CSS3, JavaScript, React.js, Next.js, Tailwind CSS, Node.js, Express.js, REST APIs, MongoDB, MySQL, Git, GitHub, Claude AI, GitHub Copilot, Power BI, VS Code
+
+CONTACT
+LinkedIn: https://linkedin.com/in/akshat-bhatnagar-1b1025206
+Email and GitHub profile: not provided
